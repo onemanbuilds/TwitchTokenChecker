@@ -6,6 +6,13 @@
 pip3 install -r requirements.txt
 ``` 
 
+# Config
+ use_proxy (0 - Proxyless | 1 - Proxy).
+ proxy_type (1 - HTTPS | 2 - SOCKS4 | 3 - SOCKS5).
+ threads (Higher means faster performance, but higher chance for inaccurate results).
+ webhook_enable (0 - Disable webhook support | 1 - Enable discord webhook support).
+ webhook_url (Enter your webhook url here).
+
 # Tool
 ![](https://i.ibb.co/nmtcLMG/twitch-token-checker.png)
 
