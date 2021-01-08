@@ -7,10 +7,10 @@ pip3 install -r requirements.txt
 ``` 
 
 # Config
- use_proxy (0 - Proxyless | 1 - Proxy).
- proxy_type (1 - HTTPS | 2 - SOCKS4 | 3 - SOCKS5).
- threads (Higher means faster performance, but higher chance for inaccurate results).
- webhook_enable (0 - Disable webhook support | 1 - Enable discord webhook support).
+ use_proxy (0 - Proxyless | 1 - Proxy).<br/>
+ proxy_type (1 - HTTPS | 2 - SOCKS4 | 3 - SOCKS5).<br/>
+ threads (Higher means faster performance, but higher chance for inaccurate results).<br/>
+ webhook_enable (0 - Disable webhook support | 1 - Enable discord webhook support).<br/>
  webhook_url (Enter your webhook url here).
 
 # Tool
